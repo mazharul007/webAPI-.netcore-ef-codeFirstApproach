@@ -90,10 +90,15 @@ C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.csprojAssemblyReference.cache
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\staticwebassets\webAPI-.netcore-ef-codeFirstApproach.StaticWebAssets.Manifest.cache
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\staticwebassets\webAPI-.netcore-ef-codeFirstApproach.StaticWebAssets.xml
-C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.AssemblyInfoInputs.cache
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.AssemblyInfo.cs
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.RazorTargetAssemblyInfo.cache
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.csproj.CopyComplete
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.dll
 C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.pdb
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mazharul Hoque Naumy\source\repos\web api using.net core and ef\webAPI-.netcore-ef-codeFirstApproach\obj\Debug\netcoreapp3.1\webAPI-.netcore-ef-codeFirstApproach.MvcApplicationPartsAssemblyInfo.cache
