@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj": {}
+    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\webAPI-.netcore-ef-codeFirstApproachj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj": {
+    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\webAPI-.netcore-ef-codeFirstApproachj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj",
-        "projectName": "DattingAppAPI",
-        "projectPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\webAPI-.netcore-ef-codeFirstApproachj.csproj",
+        "projectName": "webAPI-.netcore-ef-codeFirstApproachj",
+        "projectPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\webAPI-.netcore-ef-codeFirstApproachj.csproj",
         "packagesPath": "C:\\Users\\Mazharul Hoque Naumy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\obj\\",
         "projectStyle": "PackageReference",

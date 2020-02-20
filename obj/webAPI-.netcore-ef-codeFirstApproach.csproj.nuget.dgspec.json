@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj": {}
+    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproach\\webAPI-.netcore-ef-codeFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj": {
+    "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproach\\webAPI-.netcore-ef-codeFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj",
-        "projectName": "DattingAppAPI",
-        "projectPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\DattingAppAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproach\\webAPI-.netcore-ef-codeFirstApproach.csproj",
+        "projectName": "webAPI-.netcore-ef-codeFirstApproach",
+        "projectPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproach\\webAPI-.netcore-ef-codeFirstApproach.csproj",
         "packagesPath": "C:\\Users\\Mazharul Hoque Naumy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproachj\\obj\\",
+        "outputPath": "C:\\Users\\Mazharul Hoque Naumy\\source\\repos\\web api using.net core and ef\\webAPI-.netcore-ef-codeFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mazharul Hoque Naumy\\AppData\\Roaming\\NuGet\\NuGet.Config",
