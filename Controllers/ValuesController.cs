@@ -23,7 +23,6 @@ namespace DattingAppAPI.Controllers
         [HttpGet]
         public IActionResult GetValues()
         {
-            //throw new Exception("test Exception");
 
             var values = _context.Resources.ToList();
             return Ok(values);

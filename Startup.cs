@@ -27,8 +27,8 @@ namespace DattingAppAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var con = "Data Source=localhost;Initial Catalog=DattingAppAPI;Persist Security Info=True;User ID=sa;Password=0707";
-            services.AddDbContext<DataContext>(x => x.UseSqlServer(con));
+            //var con = "Data Source=localhost;Initial Catalog=DattingAppAPI;Persist Security Info=True;User ID=sa;Password=0707";
+            services.AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
             services.AddMvc(option => option.EnableEndpointRouting = false);
