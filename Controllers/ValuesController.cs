@@ -4,8 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DattingAppAPI.Data;
 using Microsoft.AspNetCore.Mvc;
-
-
+using Microsoft.EntityFrameworkCore;
 
 namespace DattingAppAPI.Controllers
 {
@@ -21,12 +20,13 @@ namespace DattingAppAPI.Controllers
 
         // GET: api/values
         [HttpGet]
-        public IActionResult GetValues()
+        public async Task<IActionResult> GetValues()
         {
 
-            var values = _context.Resources.ToList();
+            //var values = _context.Resources.ToList(); // sync code
+            var values = await _context.Resources.ToListAsync();
             return Ok(values);
-        }
+        } 
 
 
         // GET api/valueById/{id}
